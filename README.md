@@ -1,2 +1,2 @@
 # rocketmongo
-Custom mongodb dockerfile for RocketChat
+Custom dockerfile for LimeSurvey
