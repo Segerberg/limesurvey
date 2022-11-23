@@ -1,2 +1,2 @@
-# rocketmongo
+# LimeSurvey 
 Custom dockerfile for LimeSurvey
